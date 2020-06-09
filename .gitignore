@@ -1,0 +1,10 @@
+ __pycache__/*
+ .idea/*
+venv/*
+data/*
+outputs/*
+runs/*
+results/*
+transformer_models/*
+plot_downsampled_results.py
+convert_json_results.py
