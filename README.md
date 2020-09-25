@@ -8,3 +8,7 @@ datasets, transformers and different augmentation languages.
 ## Install dependencies
 
     pip install -r requirements.txt
+
+## Disclaimer
+
+Some parts of the code were inspired by HuggingFace Transformers Implementations.
