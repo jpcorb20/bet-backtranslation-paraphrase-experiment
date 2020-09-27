@@ -18,7 +18,7 @@ We clustered all the Google Translation languages into the related language fami
 
 ## Results
 
-The bold values in the table shows how BET increased the performance. "all" stands for backtranslation from all the languages in our set. We also report the top-performing language too.
+The bold values in the table show how BET increased the performance. "all" stands for backtranslation from all the languages in our set. We also report the top-performing languages too.
 
 |  Model  |   Data   |  Accuracy  |   F1-score  | Precision | Recall |
 |:-------:|:--------:|:-----:|:-----:|:---------:|:------:|
