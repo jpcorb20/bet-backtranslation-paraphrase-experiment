@@ -1,4 +1,4 @@
-# BET: A Backtranslation Approach for Easy Data Augmentation in Transformer-based Paraphrase Identification Context
+# BET
 
 We bet on it and it worked. This repository includes the scripts to train transformers (_finetuneutils.py_ and _torchutils.py_) from Huggingface library with Pytorch.
 We load the data from module _datautils.py_. We prepared the _main.py_ script to run the training and evaluation.
@@ -40,6 +40,16 @@ The bold values in the table shows how BET increased the performance. "all" stan
 ## Install dependencies
 
     pip install -r requirements.txt
+    
+### How do I cite BERT?
+For now, cite ... ,
+
+@article{jphabdibet,
+  title={BET: A Backtranslation Approach for Easy Data Augmentation in Transformer-based Paraphrase Identification Context},
+  author={Corbeil, Jean-Philippe and Abdi Ghavidel, Hadi},
+  journal={arXiv preprint arXiv:...},
+  year={2020}
+}
 
 ## Disclaimer
 
