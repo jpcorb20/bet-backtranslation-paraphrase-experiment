@@ -1,6 +1,6 @@
-# BET: Transformer training scripts
-
 ![backtranslation data augmentation scheme](img/aug_data.png) 
+
+# BET: Transformer training scripts
 
 We bet on it and it worked. This repository have scripts to train transformers (_finetuneutils.py_ and _torchutils.py_) from Huggingface library with Pytorch.
 We load the data from module _datautils.py_. We prepared the _main.py_ script to run the training and evaluation.
