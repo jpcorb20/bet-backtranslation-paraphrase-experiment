@@ -20,7 +20,7 @@ We clustered all the Google Translation languages into the related language fami
 
 |  Model  |   Data   |  Acc  |   F1  | Precision | Recall |
 |:-------:|:--------:|:-----:|:-----:|:---------:|:------:|
-|   BERT  | baseline | 0.802 | 0.858 |   0.820   |  0.899 |
+|   #BERT  | baseline | 0.802 | 0.858 |   0.820   |  0.899 |
 |   BERT  |    all   | 0.824 | 0.877 |   0.819   |  0.945 |
 |   BERT  |    es    | 0.835 | 0.882 |   0.840   |  0.929 |
 |  XLNet  | baseline | 0.845 | 0.886 |   0.868   |  0.905 |
