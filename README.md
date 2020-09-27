@@ -5,18 +5,18 @@ We load the data from module _datautils.py_. We prepared the _main.py_ script to
 Finally, we use the _run_loop.py_ to run iteratively all the configuration for BET experiment:
 datasets, transformers and different augmentation languages.
 
-# Clustering Languages 
+## Clustering Languages 
 
 We clustered all the Google Translation languages into the related language families based on the information provided in the Wikipedia info-boxes. The Romance branch is illustrated in the following figure.
 
 ![Romance Languages](img/language_family_tree.png) 
 
 
-# Backtranslation
+## Backtranslation process
 ![backtranslation data augmentation scheme](img/aug_data.png) 
 
 
-# Results
+## Results
 
 The bold values in the table shows how BET increased the performance. "all" stands for backtranslation from all the languages in our set. We also report the top-performing language too.
 
