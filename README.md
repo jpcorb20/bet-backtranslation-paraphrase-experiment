@@ -1,4 +1,4 @@
-# BET  :crossed-fingers:
+# BET  🤞
 
 We bet on it and it worked. This repository includes the scripts to train transformers (_finetuneutils.py_ and _torchutils.py_) from Huggingface library with Pytorch.
 We load the data from module _datautils.py_. We prepared the _main.py_ script to run the training and evaluation.
