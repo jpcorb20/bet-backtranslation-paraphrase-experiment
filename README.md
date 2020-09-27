@@ -44,12 +44,12 @@ The bold values in the table shows how BET increased the performance. "all" stan
 ### How do I cite BERT?
 For now, cite ... ,
 
-@article{jphabdibet,
-  title={BET: A Backtranslation Approach for Easy Data Augmentation in Transformer-based Paraphrase Identification Context},
-  author={Corbeil, Jean-Philippe and Abdi Ghavidel, Hadi},
-  journal={arXiv preprint arXiv:...},
-  year={2020}
-}
+    @article{jphabdibet,
+      title={BET: A Backtranslation Approach for Easy Data Augmentation in Transformer-based Paraphrase Identification Context},
+      author={Corbeil, Jean-Philippe and Abdi Ghavidel, Hadi},
+      journal={arXiv preprint arXiv:...},
+      year={2020}
+    }
 
 ## Disclaimer
 
