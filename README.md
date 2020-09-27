@@ -18,22 +18,22 @@ We clustered all the Google Translation languages into the related language fami
 
 # Results
 
-The bold values in the table shows how BET increased the performance.
+The bold values in the table shows how BET increased the performance. "all" stands for backtranslation from all the languages in our set. We also report the top-performing language too.
 
-|  Model  |   Data   |  Acc  |   F1  | Precision | Recall |
+|  Model  |   Data   |  Accuracy  |   F1-score  | Precision | Recall |
 |:-------:|:--------:|:-----:|:-----:|:---------:|:------:|
 |   **BERT**   | baseline | 0.802 | 0.858 |   0.820   |  0.899 |
 |   **BERT**   |    all   | **0.824** | **0.877** |   0.819   |  **0.945** |
-|   **BERT**   |    es    | **0.835** | **0.882** |   **0.840**   |  **0.929** |
+|   **BERT**   |    Spanish    | **0.835** | **0.882** |   **0.840**   |  **0.929** |
 |  **XLNet**   | baseline | 0.845 | 0.886 |   0.868   |  0.905 |
 |  **XLNet**   |    all   | 0.837 | 0.883 |   0.840   |  **0.932** |
-|  **XLNet**   |    ja    | **0.860** | **0.897** |   **0.877**   |  **0.919** |
+|  **XLNet**   |    Japanese    | **0.860** | **0.897** |   **0.877**   |  **0.919** |
 | **RoBERTa**  | baseline | 0.874 | 0.906 |   0.898   |  0.914 |
 | **RoBERTa**  |    all   | 0.872 | **0.907** |   0.877   |  **0.939** |
-| **RoBERTa**  |    vi    | **0.886** | **0.915** |   **0.906**   |  **0.925** |
+| **RoBERTa**  |    Vietnamese    | **0.886** | **0.915** |   **0.906**   |  **0.925** |
 |  **ALBERT**  | baseline | 0.853 | 0.890 |   0.885   |  0.895 |
 |  **ALBERT**  |    all   | 0.841 | 0.886 |   0.847   |  **0.929** |
-|  **ALBERT**  |    yo    | **0.867** | **0.902** |   0.884   |  **0.922** |
+|  **ALBERT**  |    Yoruba    | **0.867** | **0.902** |   0.884   |  **0.922** |
 
 
 
