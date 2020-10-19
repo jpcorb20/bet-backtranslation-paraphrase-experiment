@@ -41,13 +41,13 @@ The bold values in the table show how BET increased the performance. "all" stand
 
     pip install -r requirements.txt
     
-### How do I cite BERT?
+### How do I cite BET?
 For now, cite ... ,
 
     @article{jphabdibet,
       title={BET: A Backtranslation Approach for Easy Data Augmentation in Transformer-based Paraphrase Identification Context},
       author={Corbeil, Jean-Philippe and Abdi Ghavidel, Hadi},
-      journal={arXiv preprint arXiv:...},
+      journal={arXiv preprint},
       year={2020}
     }
 
