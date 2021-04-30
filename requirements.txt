@@ -134,7 +134,7 @@ tqdm==4.36.1
 traitlets==4.3.3
 transformers @ https://github.com/huggingface/transformers/archive/master.zip
 uctools==1.2.1
-urllib3==1.25.6
+urllib3==1.25.8
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==1.0.1
