@@ -23,6 +23,6 @@ pytz==2019.3
 requests==2.23.0
 rsa==4.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 xlrd==1.2.0
 XlsxWriter==1.2.8
