@@ -59,7 +59,7 @@ matplotlib==3.1.2
 mistune==0.8.4
 more-itertools==7.2.0
 mosestokenizer==1.1.0
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.5
 networkx==2.4
 nltk==3.5
